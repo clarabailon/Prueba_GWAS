@@ -4,7 +4,7 @@ Esta aplicación interactiva permite calcular el poder estadístico en estudios 
 
 ## 🚀 Acceso a la Aplicación
 Puedes usar la calculadora directamente aquí: 
-👉 [Pega aquí tu enlace de GitHub Pages]
+👉 https://clarabailon.github.io/Prueba_GWAS/
 
 ## 🛠️ Características
 - **Cálculo de Poder**: Estima la probabilidad de detectar una asociación genética dado un tamaño de muestra y un efecto.
